@@ -10,6 +10,11 @@
 
 <br/>
 
+### https://saloon.okasi.me
+* https://github.com/okan-s/c9-frontend-assessment
+
+<br/>
+
 ### https://cineo.okasi.me
 * https://github.com/chas-academy/09-imdb-clone-team-angels
 
@@ -35,11 +40,6 @@
 
 ### https://trello.okasi.me
 * https://github.com/chas-academy/05-trello-clone-okan-s
-
-<br/>
-
-### https://saloon.okasi.me
-* https://github.com/okan-s/c9-frontend-assessment
 
 <br/>
 
