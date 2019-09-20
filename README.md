@@ -1,17 +1,17 @@
 # live-sites w/ link to repos
 
 ### https://pobu.io
-* https://github.com/okan-s/pobu
+* https://github.com/okasi/pobu
 
 <br/>
 
 ### https://okasi.me
-* https://github.com/okan-s/portfolio
+* https://github.com/okasi/portfolio
 
 <br/>
 
 ### https://saloon.okasi.me
-* https://github.com/okan-s/c9-frontend-assessment
+* https://github.com/okasi/c9-frontend-assessment
 
 <br/>
 
